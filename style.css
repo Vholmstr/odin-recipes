@@ -8,5 +8,20 @@ body {
 }
 
 img {
-    border: 1px solid black;
+    border: 1px solid lightblue;
+}
+
+a {
+    color: lightblue;
+    
+}
+
+.dark-text {
+    color: darkblue;
+    text-shadow: -2px 2px lightblue;
+}
+
+.light-text {
+    color: lightblue;
+    text-shadow: 2px 2px black;
 }
